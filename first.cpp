@@ -6,7 +6,6 @@ void power(int a, int b){
     for(int i=0; i<b; i++){
         p=p*a;
     }
-
     cout << a <<" raise to " <<b <<" = " <<p <<endl;
 }
 
