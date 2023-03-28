@@ -7,10 +7,12 @@ void power(int a, int b){
         p=p*a;
     }
 
-    cout << a <<" raise to " <<b <<" =" <<p <<endl;
+    cout << a <<" raise to " <<b <<" = " <<p <<endl;
 }
 
 int main(){
+
+    cout <<"This is Nikhil" <<endl;
 
     int x, y;
     cout <<"Enter two numbers: ";
